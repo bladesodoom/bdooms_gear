@@ -1,0 +1,7 @@
+require("prototypes.ammos.ammo-categories")
+require("prototypes.ammos.ammos")
+require("prototypes.armors.equipment-grids")
+require("prototypes.armors.armors")
+require("prototypes.equipments.equipments")
+require("prototypes.weapons.weapons")
+require("prototypes.recipes.recipes")
