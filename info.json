@@ -2,8 +2,8 @@
   "name": "bdooms_gear",
   "version": "0.4.0",
   "title": "B'Dooms Gear",
+  "description": "Adds a custom gun, ammo, and armor with an equipment grid.",
   "author": "Bladesodoom",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0.0"],
-  "description": "Adds a custom gun, ammo, and armor with an equipment grid."
+  "dependencies": ["base >= 2.0.0", "?space_age >= 2.0.0", "?bdooms_td >= 0.23.0", "?bdooms_enemies >= 0.3.0", "?bdooms_turrets >= 0.4.0"]
 }
