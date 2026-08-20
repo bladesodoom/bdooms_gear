@@ -5,5 +5,8 @@
   "description": "Adds a custom gun, ammo, and armor with an equipment grid.",
   "author": "Bladesodoom",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0.0", "?space_age >= 2.0.0", "?bdooms_td >= 0.23.1", "?bdooms_enemies >= 0.3.1", "?bdooms_turrets >= 0.4.1"]
+  "dependencies": [
+    "base >= 2.0.0",
+    "? space_age >= 2.0.0"
+  ]
 }
