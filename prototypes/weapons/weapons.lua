@@ -2,8 +2,13 @@ data:extend({
     {
         type = "gun",
         name = "bdooms-gun",
-        icon = "__base__/graphics/icons/submachine-gun.png",
-        icon_size = 64,
+        icons = {
+            {
+                icon = "__base__/graphics/icons/submachine-gun.png",
+                icon_size = 64,
+                tint = {r = 1, g = 0.843, b = 0, a = 1}
+            }
+        },
         subgroup = "gun",
         order = "z[bdooms]-a[gun]",
 

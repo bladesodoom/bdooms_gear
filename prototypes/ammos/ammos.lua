@@ -2,8 +2,13 @@ data:extend({
     {
         type = "ammo",
         name = "bdooms-ammo",
-        icon = "__base__/graphics/icons/firearm-magazine.png",
-        icon_size = 64,
+        icons = {
+            {
+                icon = "__base__/graphics/icons/firearm-magazine.png",
+                icon_size = 64,
+                tint = {r = 1, g = 0.843, b = 0, a = 1}
+            }
+        },
         magazine_size = 12,
         subgroup = "ammo",
         order = "z[bdooms]-a[bullet]",

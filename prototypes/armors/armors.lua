@@ -2,8 +2,13 @@ data:extend({
     {
         type = "armor",
         name = "bdooms-armor",
-        icon = "__base__/graphics/icons/power-armor.png",
-        icon_size = 64,
+        icons = {
+            {
+                icon = "__base__/graphics/icons/power-armor.png",
+                icon_size = 64,
+                tint = {r = 1, g = 0.843, b = 0, a = 1}
+            }
+        },
         resistances = {
             {
                 type = "physical",

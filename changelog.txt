@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 19. 08. 2026
+  Changes:
+    - Tinted the gun, ammo, and armor icons gold since they reuse vanilla
+      base-game graphics (submachine-gun, firearm-magazine, and power-armor
+      icons) rather than having custom art of their own.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 18. 08. 2026
+  Features:
+    - Custom gun, ammo, and armor with an equipment grid.
